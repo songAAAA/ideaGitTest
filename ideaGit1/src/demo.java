@@ -7,5 +7,8 @@ public class demo {
     public static void f1(){
 
         System.out.println("1");
+        System.out.println("2");
     }
+
+
 }
