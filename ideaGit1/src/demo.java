@@ -11,6 +11,7 @@ public class demo {
         System.out.println("3");
         System.out.println("33");
         System.out.println("333");
+        System.out.println("第一个4");
 
     }
 
