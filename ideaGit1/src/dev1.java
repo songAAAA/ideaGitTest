@@ -1,5 +1,7 @@
 public class dev1 {
 
-    int c =9;
+    int a=1;
+    int dev =1;
+
 
 }

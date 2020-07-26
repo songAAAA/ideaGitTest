@@ -18,6 +18,8 @@ public class demo {
 
         String a="提交到master111";
        a="提交到master222";
+        a="提交到master222——git1提交";
+
     }
 
 
